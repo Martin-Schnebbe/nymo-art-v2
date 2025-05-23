@@ -1,0 +1,5 @@
+streamlit
+openai>=1.23
+requests
+pillow
+python-dotenv
