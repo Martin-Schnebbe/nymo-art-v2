@@ -36,4 +36,6 @@ venv.bak/
 .DS_Store
 
 # Generierte Dateien im runs-Verzeichnis
-runs/
+runs/*
+!runs/.gitkeep
+!runs/README.md
